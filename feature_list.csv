@@ -1,0 +1,49 @@
+module,requirement,srs_ref
+Authentication,Sign up with an email and password,FR-AUTH-1
+Authentication,Log in with credentials,FR-AUTH-2
+Authentication,Recover a forgotten password,FR-AUTH-3
+Authentication,Validate input on the authentication forms,FR-AUTH-4
+Authentication,Securely store the authentication token,FR-AUTH-5
+Onboarding,Present a multi-step onboarding flow with a welcome note,FR-ONB-1
+Onboarding,Allow the user to create an avatar,FR-ONB-2
+Onboarding,Collect the user's basic details,FR-ONB-3
+Onboarding,Request permissions through a single permission manager,FR-ONB-4
+Home,Display the user's current active streak,FR-HOME-1
+Home,Display today's habits,FR-HOME-2
+Home,Display all of the user's habits,FR-HOME-3
+Home,Display the active habit count,FR-HOME-4
+Home,Display the habit completion rate and average completion rate,FR-HOME-5
+Home,Display a calendar view of habit activity,FR-HOME-6
+Create Habit,Create a habit with a name,FR-CH-1
+Create Habit,Set the habit's frequency,FR-CH-2
+Create Habit,Set a time-based reminder for a habit,FR-CH-3
+Create Habit,Set a location-based reminder for a habit,FR-CH-4
+Create Habit,Validate the habit creation input,FR-CH-5
+Habit Management,Mark daily habits as complete,FR-HM-1
+Habit Management,Maintain a history of habit completions,FR-HM-2
+Habit Management,Award XP gems and rewards for completing habits,FR-HM-3
+Habit Management,Track the user's progress level,FR-HM-4
+Habit Management,Allow the user to apply a habit freeze,FR-HM-5
+Habit Management,Handle missed habits,FR-HM-6
+Habit Management,Award milestone badges,FR-HM-7
+Social,Add friends,FR-SOC-1
+Social,Manage friend requests,FR-SOC-2
+Social,Display a leaderboard,FR-SOC-3
+Social,Generate and share an invite code,FR-SOC-4
+Social,View a friend's profile,FR-SOC-5
+Social,Display friends' streaks,FR-SOC-6
+Messaging,Chat with friends in real time,FR-MSG-1
+Messaging,Support emoji in messages,FR-MSG-2
+Messaging,Manage chat users,FR-MSG-3
+Challenges,Join challenges,FR-CHL-1
+Challenges,Track challenge progress in real time,FR-CHL-2
+Notifications,Send global and in-app notifications,FR-NOT-1
+Widgets,Provide a home-screen or lock-screen widget,FR-WID-1
+Widgets,Synchronize widget data in real time,FR-WID-2
+Profile,View and edit the user profile,FR-PRO-1
+Analytics,Display habit analytics as charts and graphs,FR-ANL-1
+Settings,Configure application settings,FR-SET-1
+Gamification,Present an animated mascot with audio and haptics,FR-GAM-1
+Subscription,Integrate payments for subscriptions,FR-SUB-1
+Subscription,Gate premium features behind subscription status,FR-SUB-2
+Quality,The application should be intuitive and responsive to use,NFR4
